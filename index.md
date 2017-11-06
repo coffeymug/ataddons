@@ -4,7 +4,7 @@
 
 SHA256: e43e01f96775220c737a7f8426fe4f9c5b4f761c9a775764fffe60841e924cee
 
-The following websites are useful for finding older version of addons;
+The following websites are useful for finding older versions of addons;
 * [WoWAce](https://www.wowace.com/addons)
 * [WoW Interface](https://www.wowinterface.com/addons.php)
 * [Curse Addons](https://mods.curse.com/addons/wow)
