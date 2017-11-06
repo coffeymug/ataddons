@@ -8,7 +8,7 @@ The following websites are useful for finding older version of addons;
 * [WoWAce](https://www.wowace.com/addons)
 * [WoW Interface](https://www.wowinterface.com/addons.php)
 * [Curse Addons](https://mods.curse.com/addons/wow)
-* [Curse Forge](https://wow.curseforge.com/)
+* [Curse Forge](https://wow.curseforge.com/addons)
 
 
 Addon | Function
