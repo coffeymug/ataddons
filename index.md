@@ -21,8 +21,10 @@ Afflicted | Strong addon for Warlocks and CD reliant classes. Very customizable.
 AfterCast | Useful for Mages. Can be used to alert teammates of successful polymorph. 
 
 With Aftercast you must use a macro like the following; 
-* /aftercast /p Polymorph on %t
-* /cast Polymorph
+```
+/aftercast /p Polymorph on %t
+/cast Polymorph
+```
 
 Addon | Function
 ------------ | -------------
