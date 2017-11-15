@@ -53,7 +53,7 @@ Gear Score Lite | Allows you to easily understand the quality of each piece of g
 Gladius | One of the most fundamental addons for arena gameplay. It displays if trinkets have been used, announces if enemy players are drinking and detects the talent spec of other players.
 Grid Healing Frames | Very customizeable and solid healing unit frames.
 Heal Bot | Very functional and customizeable healing frames. An excellent alternate to Grid but isn't as intimidatingly complex as Vuhdo.
-Hide Chat Button | If you miss this addon then use Prat and bChat and create a new message window with all the various chats unchecked. [Here](https://vimeo.com/242842775) is a quick tutorial.
+Hide Chat Button | If you miss this addon then use Prat and bChat and create a new message window with all the various chats unchecked. [Here](https://vimeo.com/242863038) is a quick tutorial.
 In Combat Indicator | Constantly displays your combat status.
 Interrupt Bar | Lists the cooldowns of enemies interrupt abilities.
 Koko Stomp Alert | Essential for Tremor Totem reminders. Can be used for any totem.
