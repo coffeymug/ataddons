@@ -42,17 +42,17 @@ Capping | Arena countdown and essential battleground information.
 Castbars| Requires very little configuration and is lightweight.
 Cooldown Count | Puts numerical timers over spell icons to show when they can be used again. OmniCC works with Lose Control but this does not.
 Diminishing Returns | Important for Mage/Warlock arena play. Use in combination with Gladius or Shadowed Unit Frames.
-Dispel Border | Essential for Ele Shaman and Disc Priest. Highlights removable buffs.
+Dispel Border | Very useful with Elemental Shaman and Disc Priest. Highlights removable buffs.
 Dominos | Recommended action bar addon. Perfect in combination with Action Bar Saver.
 Doom Cooldown Pulse | Displays all cooldowns as they come up with an icon. It's nice to use to train yourself to get a feel for the frequency of cooldowns by hiding your action bars and only using this.
-eAlign | Perfect for setting up an interface without overlapping cast bars and frames.
+eAlign | Helps to organize your interface without overlapping cast bars and frames.
 Elite Player Frame Enhanced | Ego booster and a nice addition.
 Event Alert | Informs you of certain procs and their duration.
 Friend & Ignore Share | Syncs friends across multiple characters.
 Gear Score Lite | Allows you to easily understand the quality of each piece of gear you have as well as a summary for your character.
 Gladius | One of the most fundamental addons for arena gameplay. It displays if trinkets have been used, announces if enemy players are drinking and detects the talent spec of other players.
 Grid Healing Frames | Very customizeable and solid healing unit frames.
-Heal Bot | Very functional and customizeable healing frames. An excellent alternate to Grid but isn't as intimidatingly complex as Vuhdo.
+HealBot | Very functional and customizeable healing frames. An excellent alternate to Grid but isn't as intimidatingly complex as Vuhdo.
 Hide Chat Button | If you miss this addon then use Prat and bChat and create a new message window with all the various chats unchecked. [Here](https://vimeo.com/242863038) is a quick tutorial.
 In Combat Indicator | Constantly displays your combat status.
 Interrupt Bar | Lists the cooldowns of enemies interrupt abilities.
@@ -80,12 +80,12 @@ Simple Unit Frames | Allows text to be put inside of and next to the power and h
 Snowfall Key Press | Immediate spell activation, can shave off 20ms or more. You have to add all the keys of your keyboard to the list of its keydown spells or this addon won't work properly.
 Sound Alerter | A very different type of addon. It announces important spells by name as soon as they are casted.
 Speedy Actions | Activates spells when you press down a key instead of releasing it.
-Spell Alerter | Paladin's Divine Shield or offensive buffs like Bloodlust can be displayed with this addon. It can also let you know when you are being Mana Burned or if a mage has used Presence of Mind.
-Talented | Great for character cloning. It allows you to save templates of talent specs and apply them with one click. Use with Action Bar Saver.
+Spell Alerter | Paladin's Divine Shield or offensive buffs like Bloodlust can be displayed with this addon. It can also let you know when you are being Mana Burned or if a Mage has used Presence of Mind.
+Talented | Great for character cloning. It allows you to save templates of talent specs and instantly apply them. Use with Action Bar Saver.
 Tekticles | Allows you to change the font of everything in the UI.
 Tell Me When | Lets you know when certain abilities are ready.
 Tidy Plates + Clean Plates | Allows for the targetting of Tremor Totems. Can be configured for all totems with many different indicators.
-Vuhdo Healing Frames | Offers a lot of options and good visual cues.
+Vuhdo | Very similar to Grid and HealBot. Vuhdo provides a lot of options and good visual cues.
 Wow Instant Messenger | Whispers are displayed as a chat window.
 
 Also included is Xperl and Pitbull Unit Frames.
