@@ -73,7 +73,7 @@ Plate Buffs | You make a list of the buffs that are displayed over player plates
 Power Auras Classic | Can show Frostfire and Shadowbolt procs. Great for warriors. Experimentation is a good idea.
 Prat | bChat and Prat are a great mix for changing how your chat frame looks.
 Purgeatory | Relates dispel and interrupt information to teammates.
-Quartz | A casting bar addon with many options for costumization.
+Quartz | A casting bar addon with many options for customization.
 Rating Buster | Allows you to see the stat changes with items and also compare different items. It also reveals hidden stat bonuses.
 Scrolling Combat Text | Displays combat states, crit and damage. Shows procs.
 Sexy Map | Gives you options to change the appearance of the default minimap.
