@@ -33,6 +33,7 @@ Addon | Function
 AG Unit Frames | Lightweight unit frames.
 Aloft Plates | Creates nice and minimalistic overhead plates, but Tidy Plates has certain features this does not.
 AF + Arena Frames Improved | This addon was saved over from the AT forums. It provides information on all buffs and debuffs on an enemy arena team.
+[Arena Spectator](http://forum.warmane.com/showthread.php?t=301146) | A custom interface for spectating arena matches. 
 Auto Screenshot | Screenshots at interval set by user. Great for keeping a log of leveling or arena matches.
 Bagnon | Combines all your bags into one and allows you to search for items by name.
 Bartender | Allows you to easily configure your action bars. Using Dominos you can clone characters in conjunction with Action Bar Saver.
