@@ -19,7 +19,7 @@ Ace Libraries | Essential for the functions of some addons.
 Addon Control Panel | Allows you change the addons you are currently using without logging out. You can reload your UI on the fly and create addon profile sets.
 Action Bar Saver | Saves keybindings.
 Aesa | Enemy cooldown tracker.
-Afflicted | Tracks enemy cooldowns. A powerful addon for Warlocks and CD reliant classes. Very customizable.
+Afflicted | Tracks enemy cooldowns. A powerful addon for Warlocks and CD reliant classes.
 AfterCast | Useful for Mages. Can be used to alert teammates of a successful spell cast. 
 
 With Aftercast you must use a macro like the following; 
@@ -35,7 +35,7 @@ Aloft Plates | Creates nice and minimalistic overhead plates, but Tidy Plates ha
 AF + Arena Frames Improved | This addon was saved over from the AT forums. It provides information on all buffs and debuffs on an enemy arena team.
 Auto Screenshot | Screenshots at interval set by user. Great for keeping a log of leveling or arena matches.
 Bagnon | Combines all your bags into one and allows you to search for items by name.
-Bartender | Allows you to easily customize your action bars. Using Dominos you can clone characters in conjunction with Action Bar Saver.
+Bartender | Allows you to easily configure your action bars. Using Dominos you can clone characters in conjunction with Action Bar Saver.
 bChat | Works in combination with Prat to clear away clutter.
 Bind Pad | If you never want to worry about keybinding again this is really nice way to tackle the problem. Allows you to create more macros than the default UI allows. Make sure you do not use the same name for regular macros and Bindpad macros.
 Buffet | Great for mages. It creates a macro that utilizes the best items for mana and health. For example if you have arena water and mage food it would use the mage food instead and if you are out of mage food it uses arena water.
@@ -53,7 +53,7 @@ Event Alert | Informs you of certain procs and their duration.
 Friend & Ignore Share | Syncs friends across multiple characters.
 Gear Score Lite | Allows you to easily understand the quality of each piece of gear you have as well as a summary for your character.
 Gladius | One of the most fundamental addons for arena gameplay. It displays if trinkets have been used, announces if enemy players are drinking and detects the talent spec of enemy players.
-Grid | Very customizable and solid healing unit frames.
+Grid | Healer unit frames. It is capable of displaying lots of information in a simple way.
 HealBot | Very functional. An excellent alternate to Grid but isn't as intimidatingly complex as Vuhdo.
 Hide Chat Button | If you miss this addon then use Prat and bChat and create a new message window with all the various chats unchecked. [Here](https://vimeo.com/242863038) is a quick tutorial.
 In Combat Indicator | Constantly displays your combat status.
@@ -71,9 +71,9 @@ Party Ability Bars | Shows the important cooldowns of your arena teammates.
 Parrot | A combat text addon that can display procs and damage.
 Plate Buffs | You make a list of the buffs that are displayed over player plates.
 Power Auras Classic | Can show Frostfire and Shadowbolt procs. Great for warriors. Experimentation is a good idea.
-Prat | Hide Chat Button, bChat and Prat are a great mix. Lots of options for customizing chat.
+Prat | bChat and Prat are a great mix for changing how your chat frame looks.
 Purgeatory | Relates dispel and interrupt information to teammates.
-Quartz | This is a casting bar addon that can be customized a lot and is very slick looking.
+Quartz | A casting bar addon with many options for costumization.
 Rating Buster | Allows you to see the stat changes with items and also compare different items. It also reveals hidden stat bonuses.
 Scrolling Combat Text | Displays combat states, crit and damage. Shows procs.
 Sexy Map | Gives you options to change the appearance of the default minimap.
