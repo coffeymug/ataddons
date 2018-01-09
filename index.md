@@ -54,6 +54,7 @@ Event Alert | Informs you of certain procs and their duration.
 Friend & Ignore Share | Syncs friends across multiple characters.
 Gear Score Lite | Allows you to easily understand the quality of each piece of gear you have as well as a summary for your character.
 Gladius | One of the most fundamental addons for arena gameplay. It displays if trinkets have been used, announces if enemy players are drinking and detects the talent spec of enemy players.
+Gnosis | Cast bars that can perform complex functions.
 Grid | Healer unit frames. It is capable of displaying lots of information in a simple way.
 HealBot | Very functional. An excellent alternate to Grid but isn't as intimidatingly complex as Vuhdo.
 Hide Chat Button | If you miss this addon then use Prat and bChat and create a new message window with all the various chats unchecked. [Here](https://vimeo.com/242863038) is a quick tutorial.
