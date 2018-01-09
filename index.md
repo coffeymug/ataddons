@@ -1,8 +1,8 @@
-[Addon Files](http://www.mediafire.com/file/k8y6kg6z7gb8sw0/Addons.zip)
+[Addon Files](http://www.mediafire.com/file/v1d3vdj32hfd6sm/Addons.zip)
 
-[Virus Total](https://www.virustotal.com/#/file/e43e01f96775220c737a7f8426fe4f9c5b4f761c9a775764fffe60841e924cee/detection)
+[Virus Total](https://www.virustotal.com/#/file/a0e599e120d56325853dc4d2e28de9e6eb8f1a02b8ba869bab1d455815af7aba/detection)
 
-SHA256: e43e01f96775220c737a7f8426fe4f9c5b4f761c9a775764fffe60841e924cee
+SHA256: a0e599e120d56325853dc4d2e28de9e6eb8f1a02b8ba869bab1d455815af7aba
 
 [https://help.ubuntu.com/community/HowToSHA256SUM](https://help.ubuntu.com/community/HowToSHA256SUM)
 
